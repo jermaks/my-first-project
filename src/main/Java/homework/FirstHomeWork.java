@@ -6,7 +6,7 @@ public class FirstHomeWork {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        
+
         // Create 2 variables for each data types. (meaningful).
         //Concatenation (write about myself).
         //Play with operators Math.
@@ -43,3 +43,4 @@ public class FirstHomeWork {
 
     }
 }
+
