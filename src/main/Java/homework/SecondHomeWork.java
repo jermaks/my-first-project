@@ -40,7 +40,7 @@ public class SecondHomeWork {
         }
 
         /*
-        3 Task:
+       3 Task:
     Write a Java program that takes the user's salary as an argument (double) and checks
     if their salary is less than or equal to 5000,
     between 5000 and 10000, or greater than 10000.
@@ -55,7 +55,7 @@ public class SecondHomeWork {
 
         if (salary <= 5000) {
             System.out.println("Your salary is low.");
-        } else if (salary <= 10000) {
+        } else if (salary > 5000 && salary <= 10000) {
             System.out.println("Your salary is average.");
         } else {
             System.out.println("Your salary is high.");
@@ -83,6 +83,7 @@ public class SecondHomeWork {
         }
 
     }
-
 }
+
+
 
